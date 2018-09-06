@@ -6,7 +6,8 @@ namespace SumSpeedTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Title = "Testing speeds of large sum calculations";
+            
         }
     }
 }
