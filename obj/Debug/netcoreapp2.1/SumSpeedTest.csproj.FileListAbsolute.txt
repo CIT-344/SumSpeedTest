@@ -1,0 +1,11 @@
+D:\Source\CIT 344\SumSpeedTest\bin\Debug\netcoreapp2.1\SumSpeedTest.deps.json
+D:\Source\CIT 344\SumSpeedTest\bin\Debug\netcoreapp2.1\SumSpeedTest.runtimeconfig.json
+D:\Source\CIT 344\SumSpeedTest\bin\Debug\netcoreapp2.1\SumSpeedTest.runtimeconfig.dev.json
+D:\Source\CIT 344\SumSpeedTest\bin\Debug\netcoreapp2.1\SumSpeedTest.dll
+D:\Source\CIT 344\SumSpeedTest\bin\Debug\netcoreapp2.1\SumSpeedTest.pdb
+D:\Source\CIT 344\SumSpeedTest\obj\Debug\netcoreapp2.1\SumSpeedTest.csprojAssemblyReference.cache
+D:\Source\CIT 344\SumSpeedTest\obj\Debug\netcoreapp2.1\SumSpeedTest.csproj.CoreCompileInputs.cache
+D:\Source\CIT 344\SumSpeedTest\obj\Debug\netcoreapp2.1\SumSpeedTest.AssemblyInfoInputs.cache
+D:\Source\CIT 344\SumSpeedTest\obj\Debug\netcoreapp2.1\SumSpeedTest.AssemblyInfo.cs
+D:\Source\CIT 344\SumSpeedTest\obj\Debug\netcoreapp2.1\SumSpeedTest.dll
+D:\Source\CIT 344\SumSpeedTest\obj\Debug\netcoreapp2.1\SumSpeedTest.pdb
